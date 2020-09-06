@@ -16,8 +16,9 @@ I get myself involved in quite a few projects that I enjoy doing...
 Larger projects I've worked on are listed below.
 #### Java
 * https://github.com/BayviewComputerClub/smoothie-web (Spring Webflux)
-* https://github.com/espidev/ProtectionStones (Bukkit)
-* https://github.com/espidev/ebackup (Bukkit)
+* https://github.com/espidev/ProtectionStones (Bukkit plugin)
+* https://github.com/espidev/ebackup (Bukkit plugin)
+* https://github.com/EstiNet/gFeatures (Bukkit plugin)
 #### C++
 * https://invent.kde.org/plasma-mobile/kclock (Qt)
 * https://invent.kde.org/plasma-mobile/kweather (Qt)
@@ -26,8 +27,11 @@ Larger projects I've worked on are listed below.
 * https://gitlab.com/EspiDev/Algorithms
 #### Go
 * https://github.com/BayviewComputerClub/smoothie-runner (seccomp + ptrace sandbox)
-* https://github.com/espidev/api-server (Gin Framework)
+* https://gitlab.com/estinet/EstiConsole (process control, api with grpc)
+* https://github.com/espidev/api-server (Gin REST API)
+* https://gitlab.com/estinet/ClioteSky (grpc proxy)
+* https://github.com/espidev/asset-hoster
 #### Web (HTML/CSS/JS)
-* https://github.com/espidev/acris-web (React/Redux)
+* https://github.com/espidev/acris-web (React/Redux + Patternfly)
 #### Python
 * https://github.com/espidev/acris (Django)
