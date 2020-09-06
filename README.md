@@ -9,7 +9,7 @@ I get myself involved in quite a few projects that I enjoy doing...
 
 ### Communities 
 * I am an active contributor and maintainer for [KDE](https://kde.org/), especially anything [Plasma Mobile](https://www.plasma-mobile.org/) related. Let's make an open mobile platform!
-* I actively maintain and develop two Spigot Minecraft plugins, [ProtectionStones](https://github.com/espidev/ProtectionStones) and [ebackup](https://github.com/espidev/ebackup).
+* I actively maintain and develop two Spigot Minecraft plugins, [ProtectionStones](https://github.com/espidev/ProtectionStones) and [ebackup](https://github.com/espidev/ebackup), in the MOSS (Minecraft Open Source Software) community.
 
 ### Experience
 Larger projects I've worked on are listed below.
