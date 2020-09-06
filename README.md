@@ -3,10 +3,9 @@ I am a mathematics student at the University of Waterloo.
 
 I get myself involved in quite a few projects that I enjoy doing...
 
-### Links
+### Other Places
 * KDE Gitlab - https://invent.kde.org/devinlin
-* Gitlab.com - https://gitlab.com/EspiDev
-* Website - https://espi.dev
+* gitlab.com - https://gitlab.com/EspiDev
 
 ### Communities 
 * I am an active contributor and maintainer for [KDE](https://kde.org/), especially anything [Plasma Mobile](https://www.plasma-mobile.org/) related.
