@@ -27,10 +27,10 @@ Larger projects I've worked on are listed below.
 #### Go
 * https://github.com/BayviewComputerClub/smoothie-runner (seccomp + ptrace sandbox)
 * https://gitlab.com/estinet/EstiConsole (process control, api with grpc)
-* https://github.com/espidev/api-server (Gin REST API)
+* https://github.com/espidev/api-server (httprouter rest api)
 * https://gitlab.com/estinet/ClioteSky (grpc proxy)
 * https://github.com/espidev/asset-hoster
 #### Web (HTML/CSS/JS)
 * https://github.com/espidev/acris-web (React/Redux + Patternfly)
 #### Python
-* https://github.com/espidev/acris (Django)
+* https://github.com/espidev/acris (django rest api)
