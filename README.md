@@ -3,8 +3,7 @@ I am a mathematics student at the University of Waterloo.
 
 I get myself involved in quite a few projects that I enjoy doing...
 
-### Other Places
-* KDE Gitlab - https://invent.kde.org/devinlin (I'm more active here!)
+* KDE Gitlab - https://invent.kde.org/devinlin
 * gitlab.com - https://gitlab.com/EspiDev
 
 ### Communities 
