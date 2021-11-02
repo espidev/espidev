@@ -1,8 +1,6 @@
 ### hi.
 I am a mathematics student at the University of Waterloo.
 
-I get myself involved in quite a few projects that I enjoy doing...
-
 * KDE Gitlab - https://invent.kde.org/devinlin
 * gitlab.com - https://gitlab.com/EspiDev
 
