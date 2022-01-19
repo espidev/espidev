@@ -16,10 +16,10 @@ Larger projects I've worked on are listed below.
 * https://github.com/espidev/ebackup (Bukkit plugin)
 * https://github.com/EstiNet/gFeatures (Bukkit plugin)
 #### C++
+* https://invent.kde.org/plasma/plasma-mobile (Qt)
 * https://invent.kde.org/plasma-mobile/kclock (Qt)
 * https://invent.kde.org/plasma-mobile/kweather (Qt)
 * https://invent.kde.org/plasma-mobile/krecorder (Qt)
-* https://invent.kde.org/plasma/plasma-phone-components (Qt)
 * https://gitlab.com/EspiDev/Algorithms
 #### Go
 * https://github.com/BayviewComputerClub/smoothie-runner (seccomp + ptrace sandbox)
