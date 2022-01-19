@@ -7,27 +7,3 @@ I am a mathematics student at the University of Waterloo.
 ### Communities 
 * I am an active contributor and maintainer for [KDE](https://kde.org/), especially anything [Plasma Mobile](https://www.plasma-mobile.org/) related. Let's make an open mobile platform!
 * I actively maintain and develop two Spigot Minecraft plugins, [ProtectionStones](https://github.com/espidev/ProtectionStones) and [ebackup](https://github.com/espidev/ebackup), in the MOSS (Minecraft Open Source Software) community.
-
-### Experience
-Larger projects I've worked on are listed below.
-#### Java
-* https://github.com/BayviewComputerClub/smoothie-web (Spring Webflux)
-* https://github.com/espidev/ProtectionStones (Bukkit plugin)
-* https://github.com/espidev/ebackup (Bukkit plugin)
-* https://github.com/EstiNet/gFeatures (Bukkit plugin)
-#### C++
-* https://invent.kde.org/plasma/plasma-mobile (Qt)
-* https://invent.kde.org/plasma-mobile/kclock (Qt)
-* https://invent.kde.org/plasma-mobile/kweather (Qt)
-* https://invent.kde.org/plasma-mobile/krecorder (Qt)
-* https://gitlab.com/EspiDev/Algorithms
-#### Go
-* https://github.com/BayviewComputerClub/smoothie-runner (seccomp + ptrace sandbox)
-* https://gitlab.com/estinet/EstiConsole (process control, api with grpc)
-* https://github.com/espidev/api-server (httprouter rest api)
-* https://gitlab.com/estinet/ClioteSky (grpc proxy)
-* https://github.com/espidev/asset-hoster
-#### Web (HTML/CSS/JS)
-* https://github.com/espidev/acris-web (React/Redux + Patternfly)
-#### Python
-* https://github.com/espidev/acris (django rest api)
