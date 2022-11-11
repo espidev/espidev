@@ -1,5 +1,5 @@
 ### hi.
-I am a mathematics student at the University of Waterloo.
+I am a computer science student at the University of Waterloo.
 
 * KDE Gitlab - https://invent.kde.org/devinlin
 * gitlab.com - https://gitlab.com/EspiDev
