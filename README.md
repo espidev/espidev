@@ -1,5 +1,7 @@
 ### hi.
-I am a computer science student at the University of Waterloo.
+I am an incoming software engineer @ [Meta](https://meta.com).
+
+I studied computer science @ [University of Waterloo](https://uwaterloo.ca/).
 
 * KDE Gitlab - https://invent.kde.org/devinlin
 * gitlab.com - https://gitlab.com/EspiDev
