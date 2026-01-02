@@ -1,5 +1,5 @@
 ### hi.
-I am an incoming software engineer @ [Meta](https://meta.com).
+I am a software engineer @ [Meta](https://meta.com).
 
 I studied computer science @ [University of Waterloo](https://uwaterloo.ca/).
 
