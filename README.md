@@ -1,10 +1,8 @@
 ### hi.
-I am a software engineer @ [Meta](https://meta.com).
+I am a software engineer!
 
 I studied computer science @ [University of Waterloo](https://uwaterloo.ca/).
 
-* KDE Gitlab - https://invent.kde.org/devinlin
-* gitlab.com - https://gitlab.com/EspiDev
 * blog - https://espi.dev
 
 ### Communities 
