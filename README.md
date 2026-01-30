@@ -4,6 +4,8 @@ I am a software engineer!
 I studied computer science @ [University of Waterloo](https://uwaterloo.ca/).
 
 * blog - https://espi.dev
+* KDE Invent - https://invent.kde.org/devinlin
+* GitLab - https://gitlab.com/espidev
 
 ### Communities 
 * I am an active contributor and maintainer for [KDE](https://kde.org/), especially anything [Plasma Mobile](https://www.plasma-mobile.org/) related. Let's make an open mobile platform!
